@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://devtuitive.github.io/categories/</loc>
+    <loc>https://devtuitive.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://devtuitive.github.io/</loc>
+    <loc>https://devtuitive.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://devtuitive.github.io/tags/</loc>
+    <loc>https://devtuitive.com/tags/</loc>
     <priority>0</priority>
   </url>
   
